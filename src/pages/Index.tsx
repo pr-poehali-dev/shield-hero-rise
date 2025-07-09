@@ -91,7 +91,7 @@ const Index = () => {
               <div
                 className="rounded-2xl bg-gradient-to-r from-slate-800 to-amber-800 p-8 mb-8"
                 style={{
-                  backgroundImage: `linear-gradient(rgba(30, 41, 59, 0.8), rgba(146, 64, 14, 0.8)), url(/img/36c1a77e-b5ab-47f3-b183-a060246dc567.jpg)`,
+                  backgroundImage: `linear-gradient(rgba(30, 41, 59, 0.8), rgba(146, 64, 14, 0.8)), url(/img/869d0100-ac61-4c02-a574-45ebd22c049a.jpg)`,
                   backgroundSize: "cover",
                   backgroundPosition: "center",
                 }}
